@@ -1,6 +1,6 @@
 import React from 'react';
-import AddBatteryScreen from './AddBatteryScreen';
+import AppNavigator from './AppNavigator';
 
 export default function App() {
-  return <AddBatteryScreen />;
+  return <AppNavigator />;
 }
